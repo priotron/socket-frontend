@@ -187,3 +187,9 @@ export default function App() {
     </div>
   );
 }
+
+
+export const metadata = {
+  title: "Онлайн-магазин услуг | Компания X",
+  description: "Удобный заказ и оплата услуг онлайн. Мгновенное бронирование, поддержка 24/7.",
+};
